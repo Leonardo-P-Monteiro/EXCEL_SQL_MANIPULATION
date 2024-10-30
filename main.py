@@ -140,4 +140,7 @@ for row in sheet_consult.iter_rows(18, 430, 2, 4, values_only=True):
         
 connect.commit()
 
+cursor.close()
+connect.close()
+
 print('-'*15, 'SCRIPT CONCLUDED', '-'*15)
