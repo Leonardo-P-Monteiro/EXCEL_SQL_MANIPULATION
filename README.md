@@ -1,2 +1,13 @@
 # EXCEL_SQL_MANIPULATION
-On this project i accessed data into a xlsx file and push into a SQL data base.    My objective here it expose my abilities on accessing files and extract data of them with SQL language and openpyxl library. This operation can be util on several activities on administrative routine.  Felt free to sent me a tip and observations about my code. 
+This project simulate a necessity administrative. It is common exist on our routine the necessity to integrate information across softwares different. So, i try simulate one case where i have one excel sheet and  was necessity to make a copy of your data for the SQL. 
+
+The objective this project gone: 
+
+- Show my abilities in Python;
+- Evidencing my skill with English; 
+- Exercising my known in SQL;
+- Integrate my known in excel through openpyxl lib.
+
+My project, and specific my English, have problems but i so try harded to make all project and to show my habilities and competences, even making some erros. Felt free to give me tips about how i can to improve my code. 
+
+More things it's coming. Wait! 😉
